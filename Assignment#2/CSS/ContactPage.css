@@ -1,0 +1,31 @@
+head{
+    font-family: "Open Sans";
+    
+}
+body{
+    margin: auto;
+    font-family: "Open Sans";
+    background-color: antiquewhite;
+    
+}
+
+.TopBar{
+    background-color: darkgoldenrod;
+    color: blanchedalmond;
+}
+
+
+.Map{
+    
+    float: right;
+    position:absolute;
+    text-align:right;
+    height:400px;
+    width:450px;}
+}
+
+.GMap{
+    overflow: visible;
+    background: hidden;
+    
+}

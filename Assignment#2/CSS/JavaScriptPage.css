@@ -1,0 +1,16 @@
+head{
+    font-family: "Open Sans";
+    
+}
+body{
+    margin: auto;
+    font-family: "Open Sans";
+    background-color: antiquewhite;
+    
+}
+
+.TopBar{
+    background-color: darkgoldenrod;
+    color: blanchedalmond;
+}
+    

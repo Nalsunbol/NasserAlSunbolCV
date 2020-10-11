@@ -1,0 +1,86 @@
+body{
+    margin: auto;
+    font-family: "Open Sans";
+    background-color:antiquewhite;
+}
+
+.NavBar{
+    font-size: 40px;
+    overflow: visible;
+    background-color:darkgoldenrod;
+    
+}
+
+.NavBar a{
+    float: none;
+    color: blanchedalmond;
+    text-decoration: none;
+    font size: 30px; 
+    text-align: center;
+    display: inline-block;
+    padding: 10px;
+    background-color: darkgoldenrod;
+    border-right: 1px solid white;
+    position: sticky;
+    
+}
+
+.NavBar a:hover{
+    background-color: azure;
+    color: darkgreen;
+}
+
+.AboutUsDrop{
+    position: relative;
+    display: inline-block;
+}
+
+.DDContent{
+    display: none;
+    position: absolute;
+    background-color: darkgoldenrod;
+    padding: 12px 16px;
+   
+}
+ul{
+    color: blanchedalmond;
+     font-size: 20px;
+    font-family: "Open Sans";
+    list-style-type: none;
+}
+li{
+    border-bottom: 2px solid white;
+}
+
+
+.AboutUsDrop:hover .DDContent{
+    display: block;
+    
+}
+ 
+}
+body{
+    background-color:cornsilk;
+}
+
+.FooterMainPage a:hover{
+    color: aliceblue;
+    
+}
+footer{
+    margin: 40px;
+}
+
+p{
+    font-family: "awesome";
+    color: steelblue;
+}
+p a:active{
+    color: blue;
+}
+p a:hover{
+    color: darkorange;
+}
+p a:visited{
+    color: black;
+}

@@ -1,0 +1,35 @@
+head{
+    font-family: "Open Sans";
+    
+}
+body{
+    margin: auto;
+    font-family: "Open Sans";
+    background-color: antiquewhite;
+    
+}
+
+.TopBar{
+    background-color: darkgoldenrod;
+    color: blanchedalmond;
+;
+}
+    
+}
+
+
+h3{
+    float: inherit;
+    color: brown;
+}
+
+table{
+    border: 2px solid darkolivegreen;
+    text-align: center;
+    color: darkgreen;
+}
+
+tr, td, th{
+     border: 2px solid darkolivegreen;
+    
+}
